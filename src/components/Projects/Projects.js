@@ -43,7 +43,7 @@ function Projects() {
               ratings, and fan and critical reviews.  Used Movie DB API which provides data for various movie and
               TV series. Built interface of the project using React.js"
               ghLink="https://github.com/shanmai20/Movie_Entertainment"
-              demoLink="https://blogs.soumya-jit.tech/"
+              
             />
           </Col>
 
@@ -56,7 +56,7 @@ function Projects() {
               techniques to predict customer churn across various industries. The main motivation of this project is to train a machine learning model on the available data that will predict with a high accuracy which customers are about to churn, which in turn will help the business owner
               in making useful marketing decisions"
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+                            
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               title="Serverless OTP System"
               description="More than 30,000 OTP queries can be completed in a second using the OTP as a service web application that we created. The backend architecture was built using Amazon Web Services, and we used sendgrid to send emails."
               ghLink="https://github.com/shanmai20/serverless-otpstystem"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              
             />
           </Col>
         </Row>
