@@ -28,7 +28,7 @@ function Projects() {
               secure online reservations through hotel website and helps hotels to
               accept bookings. Designed the frontend application using React.js, Developed backend using Node.js, Express.js and implemented a database using MongoDB."
               ghLink="https://github.com/shanmai20/Easy_Booking-Hotel-booking-platform"
-              demoLink="https://chatify-49.web.app/"
+              
             />
           </Col>
 
